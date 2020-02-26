@@ -1,0 +1,5 @@
+.card.field, .card.tractor{
+    float: left;
+    margin: 10px;
+    width: 40%;
+}
