@@ -4,10 +4,10 @@ That microservice should receive the time on Earth in UTC as an input and return
 the Mars Sol Date (MSD) and the Martian Coordinated Time (MTC).
 
 
-![UI output](UI.png)
+![UI output](UI.PNG)
 
 
-![Unit Test output](unit_test.png)
+![Unit Test output](unit_test.PNG)
 
 
 
